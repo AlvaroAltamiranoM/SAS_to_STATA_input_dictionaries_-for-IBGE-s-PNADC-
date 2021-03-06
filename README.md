@@ -1,4 +1,4 @@
-# SAS input dictionary to STATA input dictionaries
+### About
 
 This script takes IBGE's text dictionary for reading PNADC's text-data in SAS, and transforms it -via simple NLP code- into STATA input dictionary format.
   PNADC is Brazil's main official household survey. 
